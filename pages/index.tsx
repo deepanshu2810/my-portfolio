@@ -138,7 +138,7 @@ const Home = () => {
 							<p className="mb-12">
 								I&apos;m Deepanshu Jain, a software developer
 								<br />
-								I am a Full Stack Web Developer that loves tinkering with Artificial Intelligence and Machine Learning.
+								I am a Full Stack Web Developer and a passionate Competitive Programmer.
 							</p>
 							<a className="bg-green-500 text-white p-4 flex w-36 text-1xl rounded-xl justify-around font-semibold" href="mailto:jaindeepu2002@gmail.com">
 								Say Hello
@@ -156,22 +156,22 @@ const Home = () => {
 			</div>
 
 
-			<a id="about"></a>
+			<a  id="about"></a>
 			<div>
-				<div className="pt-28 md:mx-32 md:pt-44 flex flex-col items-center">
+				<div className=" pt-28 md:mx-32 md:pt-44 flex flex-col items-center">
 					<h1 className="text-5xl font-semibold mb-4">About Me</h1>
 					<h1 className="text-2xl mb-4 text-green-400">My Introduction</h1>
 					<div className="flex flex-col space-y-12 md:space-x-32 justify-center items-center md:items-start md:flex-row">
 						<img className="h-72 w-72 rounded-xl" src="DP.jfif" />
 						<div className="flex flex-col space-y-20 justify-center items-center grow mx-12 md:items-start">
 							<p>
-								I&apos;m well versed in the technical domains of AI/ML, Web Development and DevOps.
+								I&apos;m well versed in the technical domains of ML, Web Development .
 								<br />
-								I&apos;m willing to collaborate together on Open Source projects, am also interested in mentoring people that need help in tech and also like to give technical talks at various tech events, communities and conferences.
+								I am a Competitive programmer and love coding and solving problems on different coding platforms like Codeforces,Leetcode,Codechef
 								<br />
 								Feel free to reach out to me in case of any internship or job opportunites as well. Would also be willing to work as a freelancer too.
 							</p>
-							<a className="bg-green-500 text-white p-4 flex w-44 text-1xl rounded-xl justify-around font-semibold" download href="https://drive.google.com/file/d/1rovjdJWXWmqI7P_B5mLdtZipQ8knyvMm/view?usp=sharing">
+							<a target="_blank" className="bg-green-500 text-white p-4 flex w-44 text-1xl rounded-xl justify-around font-semibold" download href="https://drive.google.com/file/d/1rovjdJWXWmqI7P_B5mLdtZipQ8knyvMm/view?usp=sharing">
 								Download CV
 							</a>
 						</div>
@@ -307,7 +307,7 @@ const Home = () => {
 					<h1 className="text-5xl font-semibold mb-4">Projects</h1>
 					<h1 className="text-2xl mb-4 text-green-400">Things I&apos;ve Created</h1>
 					<div className="grid grid-cols-1 gap-y-8">
-						<div className="flex flex-col items-center py-10 px-10 mx-4 shadow-sm shadow-green-400 rounded-xl space-y-4">
+						<div className="border-double border-4 border-green-500 flex flex-col items-center py-10 px-10 mx-4 shadow-sm shadow-green-400 rounded-xl space-y-4">
 							<h1 className="text-3xl font-semibold pb-4">Smart Brain</h1>
 							{/* <div className="flex space-x-2 items-center justify-center">
 								<img className="h-8 w-8 rounded-full" src="DP.jfif" />
@@ -320,7 +320,7 @@ const Home = () => {
 								<a target="_blank" className="bg-green-500 text-white p-4 flex w-18 text-1xl rounded-xl font-semibold mt-4" href="https://github.com/deepanshu2810/dsmartbrain">View</a>
 							</div>
 						</div>
-						<div className="flex flex-col items-center py-10 px-10 mx-4 shadow-sm shadow-green-400 rounded-xl space-y-4">
+						<div className="border-double border-4 border-green-500 flex flex-col items-center py-10 px-10 mx-4 shadow-sm shadow-green-400 rounded-xl space-y-4">
 							<h1 className="text-3xl font-semibold pb-4">Color Mania</h1>
 							{/* <div className="flex space-x-2 items-center justify-center">
 								<img className="h-8 w-8 rounded-full" src="DP.jfif" />
@@ -333,7 +333,7 @@ const Home = () => {
 								<a target="_blank" className="bg-green-500 text-white p-4 flex w-18 text-1xl rounded-xl font-semibold mt-4" href="https://github.com/deepanshu2810/dsmartbrain">View</a>
 							</div>
 						</div>
-						<div className="flex flex-col items-center py-10 px-10 mx-4 shadow-sm shadow-green-400 rounded-xl space-y-4">
+						<div className="border-double border-4 border-green-500 flex flex-col items-center py-10 px-10 mx-4 shadow-sm shadow-green-400 rounded-xl space-y-4">
 							<h1 className="text-3xl font-semibold pb-4">Portfolio Website</h1>
 							{/* <div className="flex space-x-2 items-center justify-center">
 								<img className="h-8 w-8 rounded-full" src="DP.jfif" />
@@ -347,7 +347,7 @@ const Home = () => {
 							</div>
 						</div>
 					</div>
-					<a className="bg-green-500 text-white p-4 flex w-36 text-1xl rounded-xl justify-around font-semibold mt-12" href="https://github.com/deepanshu2810">View All</a>
+					<a target="_blank" className="bg-green-500 text-white p-4 flex w-36 text-1xl rounded-xl justify-around font-semibold mt-12" href="https://github.com/deepanshu2810">View All</a>
 				</div>
 			</div>
 
