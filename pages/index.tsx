@@ -171,7 +171,7 @@ const Home = () => {
 								<br />
 								Feel free to reach out to me in case of any internship or job opportunites as well. Would also be willing to work as a freelancer too.
 							</p>
-							<a target="_blank" className="bg-green-500 text-white p-4 flex w-44 text-1xl rounded-xl justify-around font-semibold" download href="https://drive.google.com/file/d/1rovjdJWXWmqI7P_B5mLdtZipQ8knyvMm/view?usp=sharing">
+							<a  className="bg-green-500 text-white p-4 flex w-44 text-1xl rounded-xl justify-around font-semibold" download href="https://drive.google.com/file/d/1rovjdJWXWmqI7P_B5mLdtZipQ8knyvMm/view?usp=sharing">
 								Download CV
 							</a>
 						</div>
@@ -317,7 +317,7 @@ const Home = () => {
 								It can recognise the faces present in the image and also keeps track of them.It is developed using ReactJS for frontend, NodeJS for the backend, PostgreSQL for Database and Clarifai Api is used for retrieving data of face.
 							</p>
 							<div>
-								<a target="_blank" className="bg-green-500 text-white p-4 flex w-18 text-1xl rounded-xl font-semibold mt-4" href="https://github.com/deepanshu2810/dsmartbrain">View</a>
+								<a  className="bg-green-500 text-white p-4 flex w-18 text-1xl rounded-xl font-semibold mt-4" href="https://github.com/deepanshu2810/dsmartbrain">View</a>
 							</div>
 						</div>
 						<div className="border-double border-4 border-green-500 flex flex-col items-center py-10 px-10 mx-4 shadow-sm shadow-green-400 rounded-xl space-y-4">
@@ -330,7 +330,7 @@ const Home = () => {
 							The game requires you to find correct match for colour in RGB format.A web game developed which offers many interactive options to users such as easy/hard modes. Created using ReactJS and hosted on vercel app
 							</p>
 							<div>
-								<a target="_blank" className="bg-green-500 text-white p-4 flex w-18 text-1xl rounded-xl font-semibold mt-4" href="https://github.com/deepanshu2810/dsmartbrain">View</a>
+								<a  className="bg-green-500 text-white p-4 flex w-18 text-1xl rounded-xl font-semibold mt-4" href="https://github.com/deepanshu2810/dsmartbrain">View</a>
 							</div>
 						</div>
 						<div className="border-double border-4 border-green-500 flex flex-col items-center py-10 px-10 mx-4 shadow-sm shadow-green-400 rounded-xl space-y-4">
@@ -343,11 +343,11 @@ const Home = () => {
 								Personal portfolio website. Created using NextJS and hosted on Vercel.
 							</p>
 							<div>
-								<a target="_blank" className="bg-green-500 text-white p-4 flex w-18 text-1xl rounded-xl font-semibold mt-4" href="https://github.com/deepanshu2810/my-portfolio">View</a>
+								<a  className="bg-green-500 text-white p-4 flex w-18 text-1xl rounded-xl font-semibold mt-4" href="https://github.com/deepanshu2810/my-portfolio">View</a>
 							</div>
 						</div>
 					</div>
-					<a target="_blank" className="bg-green-500 text-white p-4 flex w-36 text-1xl rounded-xl justify-around font-semibold mt-12" href="https://github.com/deepanshu2810">View All</a>
+					<a  className="bg-green-500 text-white p-4 flex w-36 text-1xl rounded-xl justify-around font-semibold mt-12" href="https://github.com/deepanshu2810">View All</a>
 				</div>
 			</div>
 
