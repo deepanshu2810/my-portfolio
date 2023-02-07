@@ -171,7 +171,7 @@ const Home = () => {
 								<br />
 								Feel free to reach out to me in case of any internship or job opportunites as well. Would also be willing to work as a freelancer too.
 							</p>
-							<a  className="bg-green-500 text-white p-4 flex w-44 text-1xl rounded-xl justify-around font-semibold" download href="https://drive.google.com/file/d/1rovjdJWXWmqI7P_B5mLdtZipQ8knyvMm/view?usp=sharing">
+							<a  className="bg-green-500 text-white p-4 flex w-44 text-1xl rounded-xl justify-around font-semibold" download href="https://drive.google.com/file/d/1yCeiLA35iFeoaLe-JTLQvTro520Kgg3p/view?usp=sharing">
 								Download CV
 							</a>
 						</div>
