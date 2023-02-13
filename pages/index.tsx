@@ -330,7 +330,7 @@ const Home = () => {
 							The game requires you to find correct match for colour in RGB format.A web game developed which offers many interactive options to users such as easy/hard modes. Created using ReactJS and hosted on vercel app
 							</p>
 							<div>
-								<a  className="bg-green-500 text-white p-4 flex w-18 text-1xl rounded-xl font-semibold mt-4" href="https://github.com/deepanshu2810/dsmartbrain">View</a>
+								<a  className="bg-green-500 text-white p-4 flex w-18 text-1xl rounded-xl font-semibold mt-4" href="https://github.com/deepanshu2810/color-game">View</a>
 							</div>
 						</div>
 						<div className="border-double border-4 border-green-500 flex flex-col items-center py-10 px-10 mx-4 shadow-sm shadow-green-400 rounded-xl space-y-4">
